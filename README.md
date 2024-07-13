@@ -24,4 +24,4 @@ Este projeto é uma aplicação JavaScript que obtém e exibe os últimos 10 eve
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/projeto-final-fetch-github-api.git
+   git clone https://github.com/hamilton-vivas/projeto-final-fetch-github-api.git
